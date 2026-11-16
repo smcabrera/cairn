@@ -7,7 +7,7 @@ title: Daughter of the Dead King
 
 # Daughter of the Dead King
 
-- Converted from the original [adventure](https://www.exaltedfuneral.com/products/daughter-of-the-dead-king-pdf) by [Jesse Davenport](https://exlibrisrpg.com/tags/jesse-davenport).
+- Converted from the original [adventure](https://mneff.itch.io/daughter-of-the-dead-king) by [Jesse Davenport](https://exlibrisrpg.com/tags/jesse-davenport).
 - Credit to Kevin Hopf.
 
 ## Mordekaiser the Merchant
